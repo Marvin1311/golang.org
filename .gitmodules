@@ -1,3 +1,39 @@
+[submodule "x/blog"]
+	path = x/blog
+	url = https://github.com/golang/blog
+[submodule "x/crypto"]
+	path = x/crypto
+	url = https://github.com/golang/crypto
+[submodule "x/exp"]
+	path = x/exp
+	url = https://github.com/golang/exp
+[submodule "x/image"]
+	path = x/image
+	url = https://github.com/golang/image
+[submodule "x/mobile"]
+	path = x/mobile
+	url = https://github.com/golang/mobile
 [submodule "x/net"]
 	path = x/net
 	url = https://github.com/golang/net
+[submodule "x/review"]
+	path = x/review
+	url = https://github.com/golang/review
+[submodule "x/sys"]
+	path = x/sys
+	url = https://github.com/golang/sys
+[submodule "x/talks"]
+	path = x/talks
+	url = https://github.com/golang/talks
+[submodule "x/text"]
+	path = x/text
+	url = https://github.com/golang/text
+[submodule "x/tools"]
+	path = x/tools
+	url = https://github.com/golang/tools
+[submodule "x/protobuf"]
+	path = x/protobuf
+	url = https://github.com/golang/protobuf
+[submodule "x/debug"]
+	path = x/debug
+	url = https://github.com/golang/debug
