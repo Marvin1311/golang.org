@@ -34,6 +34,3 @@
 [submodule "x/protobuf"]
 	path = x/protobuf
 	url = https://github.com/golang/protobuf
-[submodule "x/debug"]
-	path = x/debug
-	url = https://github.com/golang/debug
